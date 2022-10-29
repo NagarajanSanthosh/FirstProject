@@ -8,6 +8,7 @@ int main(void){
     b=a-b;
     a=a-b;
     printf("\n a = %d b = %d", a, b);
-    printf("\n%d",c+a);
+    printf("\n%d",c*a);
+
     return 0;
 }
