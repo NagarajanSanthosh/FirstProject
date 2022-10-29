@@ -3,7 +3,7 @@ int main(void){
     int a, b, c;
     a=1;
     b=2;
-    c=35;
+    c=30;
     a=a+b;
     b=a-b;
     a=a-b;
